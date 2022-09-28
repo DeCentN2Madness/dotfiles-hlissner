@@ -14,7 +14,7 @@ dotfiles over there.
 > authority or expert in the NixOS space. Seek help on [the NixOS
 > discourse](https://discourse.nixos.org) instead.
 
-<img src="/../screenshots/alucard/fakebusy.png" width="100%" />
+<img src="../screenshots/alucard/fakebusy.png" width="100%" />
 
 <p align="center">
 <span><img src="/../screenshots/alucard/desktop.png" height="178" /></span>
